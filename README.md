@@ -1,2 +1,2 @@
-# elective-folio
-IT Skills elective repo for outputs
+# Elective-folio
+IT Skills Elective | Repository for Outputs
