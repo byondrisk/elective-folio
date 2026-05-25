@@ -23,14 +23,3 @@ Currently: **Video Editor & Graphic Artist** interning at OWWA.
 ## 🔗 Find Me
 
 - 📧 [pacetiv](https://pacetiv.straw.page)
-
----
-
-<div align="center">
-
-*Not available — fully booked Q1 2026 🔴*
-
-</div>
-
----
----
