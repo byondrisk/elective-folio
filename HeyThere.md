@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![banner](https://imgur.com/tE0k1HU)
+![Imgur](https://imgur.com/tE0k1HU)
 
 # byondrisk
 **Illustrator · Animator · Layout Designer**
