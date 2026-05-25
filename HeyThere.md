@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![Imgur](https://imgur.com/tE0k1HU)
+![Imgur]([https://imgur.com/tE0k1HU](https://i.imgur.com/tE0k1HU.gif))
 
 # byondrisk
 **Illustrator · Animator · Layout Designer**
