@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![Banner](https://github.com/byondrisk/elective-folio/Branding-Kit/REPO.gif])
+![Banner](https://github.com/byondrisk/elective-folio/BrandingKit/REPO.gif])
 
 # byondrisk
 **Illustrator · Animator · Layout Designer**
