@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![Imgur]([https://imgur.com/tE0k1HU](https://i.imgur.com/tE0k1HU.gif])
+![Demo File](https://github.com/byondrisk/elective-folio/Branding Kit/REPO.gif.gif])
 
 # byondrisk
 **Illustrator · Animator · Layout Designer**
