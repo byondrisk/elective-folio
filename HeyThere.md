@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![hippo](https://imgur.com/tE0k1HU)
+![banner](https://imgur.com/tE0k1HU)
 
 # byondrisk
 **Illustrator · Animator · Layout Designer**
