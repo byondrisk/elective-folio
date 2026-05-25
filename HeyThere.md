@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![Demo File](https://github.com/byondrisk/elective-folio/Branding Kit/REPO.gif.gif])
+![Demo File](https://github.com/byondrisk/elective-folio/Branding-Kit/REPO.gif])
 
 # byondrisk
 **Illustrator · Animator · Layout Designer**
