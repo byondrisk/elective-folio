@@ -11,7 +11,6 @@
 </div>
 
 ---
-<img width="733" height="240" alt="Image" src="https://github.com/user-attachments/assets/264d8b29-5f87-48d5-90e2-5754308adc6b" />
 
 ## 👁️ What I Do
 
