@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![Banner](Visuals/Profile_Banner.png)
+<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/6c67f9d7-812b-4bb7-8a17-bd80b82d183f" />
 
 # byondrisk
 **Illustrator · Animator · Layout Designer**
