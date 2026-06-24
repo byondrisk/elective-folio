@@ -1,7 +1,7 @@
 <div align="center">
 
 
-!banner[Visuals/ProfileBanner.png]
+![Banner](Visuals/Profile_Banner.png)
 
 # byondrisk
 **Illustrator · Animator · Layout Designer**
