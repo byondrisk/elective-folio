@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/6c67f9d7-812b-4bb7-8a17-bd80b82d183f" />
+<img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/6c67f9d7-812b-4bb7-8a17-bd80b82d183f" />
 
 # byondrisk
 **Illustrator · Animator · Layout Designer**
@@ -19,7 +19,7 @@ I make things feel real and look good. I run by miles on and off the screen with
 Currently: **Video Editor & Graphic Artist** interning at OWWA.
 
 ---
-
+<img width="600" height="332" alt="Hey" src="https://github.com/user-attachments/assets/2088cd07-74b5-4b1c-ac28-48c5f52a1717" />
 ## 🔗 Find Me
 
 - 📧 [pacetiv](https://pacetiv.straw.page)
