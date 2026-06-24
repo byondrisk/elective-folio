@@ -20,6 +20,7 @@ Currently: **Video Editor & Graphic Artist** interning at OWWA.
 
 ---
 <img width="600" height="332" alt="Hey" src="https://github.com/user-attachments/assets/2088cd07-74b5-4b1c-ac28-48c5f52a1717" />
+
 ## 🔗 Find Me
 
 - 📧 [pacetiv](https://pacetiv.straw.page)
