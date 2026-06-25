@@ -5,7 +5,7 @@
 
 # byondrisk
 **Illustrator · Animator · Layout Designer**
-
+seeing thru beyond the risk
 *Visual storyteller based in the Philippines.*
 
 </div>
