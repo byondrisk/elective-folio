@@ -37,7 +37,7 @@ Noticed some of my current work environtment's common hurdles and tried to strea
 
 ## 💻 Media
 
-[![Prototype](Media/Prototype_GIF.gif)]
+![Prototype](Media/Prototype_GIF.gif)
 
 Semi-serious [glaze chamber](https://canva.link/clpxzajb2973i9o) for my works. Made quick and easy through canva prototype.
 
