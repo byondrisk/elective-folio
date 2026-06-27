@@ -1,4 +1,4 @@
-# AI EXPLORER ASSIGNMENTS 123
+# AI EXPLORER ASSIGNMENTS 1,2+3
 ### Davao Region Banana Postharvest Supply Chain Initiative
 **Role:** Digital Solutions Architect — Davao Region LGU / Social Enterprise Consulting  
 **Prepared for:** LGU Technical Working Group, Davao del Norte  
@@ -28,6 +28,7 @@ Constraints:
 
 Format: Output in clear Markdown with exactly three actionable recommendations under the heading '### Postharvest Recovery Actions'. Each recommendation must name a specific road, terminal, barangay, or DA-XI program to anchor it to Davao del Norte geography.
 ```
+![Logo](Visuals/T1LOGO.png)
 
 ---
 
