@@ -5,6 +5,7 @@
 
 # byondrisk
 ***Bianca Therese***
+
 **Illustrator · Animator · Layout Designer**
 
 seeing thru beyond the risk
