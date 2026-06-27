@@ -57,7 +57,7 @@ Format: Output in clear Markdown with exactly three actionable recommendations u
 **Rendered SVG Asset:**
 ![Davao Postharvest Recovery Badge](Visuals/T1LOGO.png)
 
-> *Icon encodes the three pillars of the initiative: the banana bunch (production), the cable prop line (farm-to-packhouse logistics), and the crate (postharvest cold storage) — all within the circular badge convention of LGU/cooperative seals.*
+> *Icon encodes the three pillars of the initiative: the tundan banana bunch (production), the cable prop line (farm-to-packhouse logistics), and the crate (postharvest cold storage) — all within the circular badge convention of LGU/cooperative seals.*
 
 ---
 ---
@@ -178,14 +178,13 @@ MT Change
           2019–20  2020–21  2021–22  2022–23  2023–24
 
 ▓ = Growth year   ▒ = Moderate decline   ░ = Sharpest decline
-```
-*Source: PSA RSSO XI Annual Fruit Crops Situationers, 2022–2024*
 
-*(High-contrast bar chart embedded here as `media/davao_banana_yoy_change_2019_2024.png`)*
+Source: PSA RSSO XI Annual Fruit Crops Situationers, 2022–2024
+
 
 ---
 
-#### 4. Human Analytical Narrative: The 'Why' Factor
+#### 4. Human Analytical Narrative: 'Why' Factor
 
 The PSA data tells a precise and troubling story. Davao Region banana production peaked at approximately 3.51 million MT in 2021, buoyed by a post-lockdown rebound in farm labor and logistics. Since then, three consecutive years of decline have erased those gains, with 2024 recording the sharpest single-year drop — 86,947 MT lost from the banana sub-component alone.
 
@@ -199,7 +198,7 @@ AI-assisted cleaning and visualization accelerated pattern identification, but t
 
 ---
 
-## Sources & Verification Register
+## Sources + Verificatiob
 
 | # | Source | Type | Tasks Used |
 | :--- | :--- | :--- | :--- |
