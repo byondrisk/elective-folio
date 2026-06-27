@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/6c67f9d7-812b-4bb7-8a17-bd80b82d183f" />
+![Prototype](Media/HEADERFR.gif)
 
 # byondrisk
 ***Bianca Therese***
@@ -41,7 +41,7 @@ Noticed some of my current work environtment's common hurdles and tried to strea
 
 Semi-serious [glaze chamber](https://canva.link/clpxzajb2973i9o) for my works. Made quick and easy through canva prototype.
 
-[![Self](Media/Self-IntroBanner.gif)](Media/ITS_MOTION.mp4)
+[![Self](Media/SelfIntroBannerFinal.gif)](Media/ITS_MOTION.mp4)
 
 I have an innate talent called "Crashing Canva Website More than Five Times" and it counted most especially in this short intro video. It works best when I'm utilizing almost 100% of the basic features offered in Canva Education pro mode.
 
