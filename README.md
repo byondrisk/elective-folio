@@ -40,7 +40,7 @@ Noticed some of my current work environtment's common hurdles and tried to strea
 
 ![Prototype](Media/Prototype_GIF.gif)
 
-Semi-serious [glaze chamber](https://canva.link/clpxzajb2973i9o) for my works. Made quick and easy through canva prototype.
+Semi-serious [glaze chamber](https://canva.link/clpxzajb2973i9o) for my works. Made easy quick, yet personal and real through canva prototype.
 
 [![Self](Media/SelfIntroBannerFinal.gif)](Media/ITS_MOTION.mp4)
 
